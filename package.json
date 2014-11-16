@@ -1,6 +1,6 @@
 {
   "name": "configurator",
-  "version": "0.1.1",
+  "version": "1.0.1",
   "description": "A node.js module that provides a simple way to create environment-specific configuration files",
   "main": "index.js",
   
