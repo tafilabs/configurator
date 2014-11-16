@@ -1,0 +1,28 @@
+{
+  "name": "configurator",
+  "version": "0.1.1",
+  "description": "A node.js module that provides a simple way to create environment-specific configuration files",
+  "main": "index.js",
+  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tafilabs/configurator.git"
+  },
+
+  "author": "Mike Fine <mfine@tafilabs.com>",
+  "license": "Proprietary by TAFILabs and Mike Fine",
+
+  "dependencies": {
+    "underscore": "~1.5.1"
+  },
+
+  "devDependencies": {
+    "mocha": "~1.20.1",
+    "chai": "~1.9.1"
+  },
+
+  "scripts": {
+    "start": "echo \"Error: not meant to be run stand-alone\" && exit 1",
+    "test": "./node_modules/.bin/mocha"
+  }
+}
